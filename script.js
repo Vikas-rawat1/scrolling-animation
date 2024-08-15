@@ -6,13 +6,13 @@ const frames = {
 };
 
 let imagesLoades = 0;
-const images = [];sdf
-sdfsdf
+const images = [];
+
 function preloadImages() {
   for (var i = 1; i <= frames.maxIndex; i++) {
     const imageUrl = `./frames/frame_${i.toString().padStart(4, "0")}.png`;
-    const img = new Image();adfsdfdssd
-    img.src = imageUrl;dfsd
+    const img = new Image();
+    img.src = imageUrl;
     img.crossOrigin = "anonymous";
     // console.log(imageUrl);
     // console.log(img);
@@ -56,7 +56,7 @@ context.imageSmoothingQuality = "high";
     context.drawImage(img, offsetX, offsetY, newWidth, newHeight);
     frames.currentIndex = index;
   }
-}asdf
+}
 
 function startAnimation() {
   var tl = gsap.timeline({
