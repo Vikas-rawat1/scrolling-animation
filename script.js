@@ -6,7 +6,7 @@ const frames = {
 };
 
 let imagesLoades = 0;
-const images = [];
+const images = [];sdf
 sdfsdf
 function preloadImages() {
   for (var i = 1; i <= frames.maxIndex; i++) {
