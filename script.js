@@ -56,7 +56,7 @@ context.imageSmoothingQuality = "high";
     context.drawImage(img, offsetX, offsetY, newWidth, newHeight);
     frames.currentIndex = index;
   }
-}
+}asdf
 
 function startAnimation() {
   var tl = gsap.timeline({
