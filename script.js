@@ -13,6 +13,7 @@ function preloadImages() {
     const imageUrl = `./frames/frame_${i.toString().padStart(4, "0")}.png`;
     const img = new Image();
     img.src = imageUrl;
+    img.crossOrigin = "anonymous";
     // console.log(imageUrl);
     // console.log(img);
     img.onload = () => {
