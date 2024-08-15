@@ -11,7 +11,7 @@ sdfsdf
 function preloadImages() {
   for (var i = 1; i <= frames.maxIndex; i++) {
     const imageUrl = `./frames/frame_${i.toString().padStart(4, "0")}.png`;
-    const img = new Image();
+    const img = new Image();adfsd
     img.src = imageUrl;
     img.crossOrigin = "anonymous";
     // console.log(imageUrl);
