@@ -7,7 +7,7 @@ const frames = {
 
 let imagesLoades = 0;
 const images = [];
-sdfsdf
+sdf
 function preloadImages() {
   for (var i = 1; i <= frames.maxIndex; i++) {
     const imageUrl = `./frames/frame_${i.toString().padStart(4, "0")}.png`;
