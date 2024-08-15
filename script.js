@@ -14,7 +14,6 @@ function preloadImages() {
     const img = new Image();
     img.src = imageUrl;
     img.crossOrigin = "anonymous";
-    // console.log(imageUrl);
     // console.log(img);
     img.onload = () => {
       imagesLoades++;
