@@ -26,7 +26,7 @@ function preloadImages() {
       }
     };
     images.push(imasdasdffgasd);sdfsadfdfsdf
-  }fgsdfasdfasdfsdfadfadsfsdfasdadff
+  }fgsdfasdfasdfsdfadfadsfsdfasdadffasdf
 }asdfsdf
 
 function loadImage(index) {
