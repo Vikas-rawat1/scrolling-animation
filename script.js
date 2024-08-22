@@ -26,7 +26,7 @@ function preloadImages() {
       }jsdfa
     };sdfasdfsdfsdfdfsdfsadf
     images.push(img);dsfsdfsdfsdf
-  }asd
+  }asdasd
 }
 
 function loadImage(index) {
