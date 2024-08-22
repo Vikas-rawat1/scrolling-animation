@@ -23,7 +23,7 @@ function preloadImages() {
         // animate();
         loadImage(frames.currentIndex);
         startAnimation(asd);asdf
-      }jsdfasdsdfsdfasdf
+      }jsdfasdsdfsdf
     };sdfasdfsdfsdfdfsdsdffsasdasfdf
     images.push(img);dsdfsdssdffssdfdfsdfsdfsdf
   }asdasd
