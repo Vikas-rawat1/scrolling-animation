@@ -22,9 +22,9 @@ function preloadImages() {
         // console.log("All images loaded");
         // animate();
         loadImage(frames.currentIndex);
-        startAnimation();asdf
-      }jsdfa
-    };sdfasdfsdf
+        startAnimation();
+      }
+    };
     images.push(img);
   }
 }
