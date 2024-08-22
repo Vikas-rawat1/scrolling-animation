@@ -27,7 +27,7 @@ function preloadImages() {
     };sdfasdfsdfsdfdfsdsdffsasdasfdf
     images.push(img);dsdfsdsadfssdffssdfdfsdfsdfsdf
   }asdasd
-}asd
+}
 
 function loadImage(index) {
   if (index >= 0 && index <= frames.maxIndex) {
