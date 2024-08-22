@@ -23,7 +23,7 @@ function preloadImages() {
         // animate();
         loadImage(frames.currentIndex);
         startAnimation();
-      }
+      }j
     };
     images.push(img);
   }
