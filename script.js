@@ -24,7 +24,7 @@ function preloadImages() {
         loadImage(frames.currentIndex);
         startAnimation();
       }j
-    };
+    };sdf
     images.push(img);
   }
 }
