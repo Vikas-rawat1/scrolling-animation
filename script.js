@@ -22,7 +22,7 @@ function preloadImages() {
         // console.log("All images loaded");
         // animate();
         loadImage(frames.currentIndex);
-        startAnimation();
+        startAnimation();asdf
       }jsdfa
     };sdfasdfsdf
     images.push(img);
