@@ -4,7 +4,7 @@ const frames = {
   currentIndex: 0,
   maxIndex: 528,
 }; 
-        
+       
 let imagesLoades = 0;
 const images = [];
 
