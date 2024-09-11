@@ -4,10 +4,8 @@ const frames = {
   currentIndex: 0,
   maxIndex: 372,
 };
-
 let imagesLoades = 0;
 const images = [];
-
 function preloadImages() {
   for (var i = 1; i <= frames.maxIndex; i++) {
     const imageUrl = `./frame2/frame_${i.toString().padStart(4, "0")}.png`;
