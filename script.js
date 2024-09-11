@@ -2,7 +2,7 @@ var canvas = document.querySelector("canvas");
 const context = canvas.getContext("2d");
 const frames = {
   currentIndex: 0,
-  maxIndex: 528,
+  maxIndex: 372,
 };
 
 let imagesLoades = 0;
@@ -10,7 +10,7 @@ const images = [];
 
 function preloadImages() {
   for (var i = 1; i <= frames.maxIndex; i++) {
-    const imageUrl = `./frames/frame_${i.toString().padStart(4, "0")}.png`;
+    const imageUrl = `./frame2/frame_${i.toString().padStart(4, "0")}.png`;
     const img = new Image();
     img.src = imageUrl;
     img.crossOrigin = "anonymous";
