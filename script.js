@@ -3,7 +3,7 @@ const context = canvas.getContext("2d");
 const frames = {
   currentIndex: 0,
   maxIndex: 372,
-};   
+};  
 let imagesLoades = 0;
 const images = [];
 function preloadImages() {
